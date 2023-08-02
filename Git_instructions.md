@@ -14,8 +14,6 @@
 
 * *git log* – вывод на экран истории всех коммитов с их хеш-кодами
 
-* *git log* – ## *## вывод на экран истории всех коммитов с их хеш-кодами*
-
 * *git checkout <название ветки>* – переход к другой ветке
 
 * *git checkout master* – вернуться к актуальному состоянию и продолжить работу
@@ -29,3 +27,9 @@
 * *git branch* – посмотреть список веток в репозитории
 
 * *git branch <название ветки>* – создать новую ветку
+
+## git branch - show all branches
+
+## git branch branch_name - create new branch
+
+## git checkout branch_name - move to another branch
