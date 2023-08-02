@@ -33,3 +33,5 @@
 ## git branch branch_name - create new branch
 
 ## git checkout branch_name - move to another branch
+
+## git checkout branch_name - move to another branch
