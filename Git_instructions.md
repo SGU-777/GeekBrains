@@ -29,3 +29,5 @@
 * *git branch* – посмотреть список веток в репозитории
 
 * *git branch <название ветки>* – создать новую ветку
+
+## git checkout branch_name - move to another branch
