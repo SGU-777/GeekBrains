@@ -20,6 +20,8 @@
 
 * *git diff*      – увидеть разницу mежду текущим файлом и закоммиченным файлом
 
+* *git merge branch_name - will merge the actual branch with the branch_name*
+
 * *git commit -a -m add_info_git_status*
 
 * *git log --oneline* show all versiones in short view
