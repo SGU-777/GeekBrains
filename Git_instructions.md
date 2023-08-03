@@ -9,6 +9,6 @@
 * *git add* ....git commit -a или --amend
 
 * *git commit -m “message”...* saves the new version of the file with posiibility to add some comment
-#  *this will be anothean even bigger cursive line for test 4*
+#  *this will be anothean even bigger cursive line for test 4* and some extra words
 
-will add an extra line
+# will add an extra big line
