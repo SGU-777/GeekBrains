@@ -30,7 +30,6 @@
 
 * *git branch <название ветки>* – создать новую ветку
 
-<<<<<<< HEAD
 ## git branch - show all branches
 
 ## git branch branch_name - create new branch
@@ -38,6 +37,3 @@
 ## git checkout branch_name - move to another branch
 
 ## git checkout branch_name - move to another branch
-=======
-## git checkout branch_name - move to another branch
->>>>>>> master
