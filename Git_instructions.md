@@ -12,3 +12,6 @@
 #  *this will be anothean even bigger cursive line for test 4* and some extra words
 
 # will add an extra big line
+##  *this will be a smaller cursive line for test 4*
+
+# some extra words for the extra line 
