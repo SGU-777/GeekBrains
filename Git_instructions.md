@@ -9,4 +9,6 @@
 * *git add* ....git commit -a или --amend
 
 * *git commit -m “message”...* saves the new version of the file with posiibility to add some comment
-this will be the line for test 1
+## this will be the line for test 1
+
+an extra line is added to the first branch
